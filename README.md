@@ -9,7 +9,7 @@ go create a libgdx project i followed the intellij tutorial from this
 https://gamefromscratch.com/libgdx-video-tutorial-series/
 (make sure you add desktop into the project)
 
-![alt text](https://github.com/yourlow/ragnarok-week1-test/setup.PNG?raw=true)
+![alt text](https://github.com/yourlow/ragnarok-week1-test/blob/master/setup.PNG?raw=true)
 
 2.)
 
