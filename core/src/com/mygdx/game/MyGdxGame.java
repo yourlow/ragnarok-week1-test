@@ -90,10 +90,10 @@ public class MyGdxGame extends ApplicationAdapter {
 		increaseCoinMultiplier.addListener(new InputListener(){
 			@Override
 			public void touchUp (InputEvent event, float x, float y, int pointer, int button) {
-				if (totalCoins - 5 < 0){
+				if (totalCoins - 10 < 0){
 					return;
 				} else{
-					totalCoins -= 5;
+					totalCoins -= 10;
 					coinMultiplier += 1;
 				}
 
